@@ -73,7 +73,7 @@ STKI-TEXT-MINING-EXPERIMENTS
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/STKI-Text-Mining-Experiments.git
+   git clone https://github.com/ghaitsafiya/STKI-Text-Mining-Experiments.git
    ```
 2. Masuk ke folder project
 3. Install dependensi
